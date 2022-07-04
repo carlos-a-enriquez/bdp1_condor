@@ -24,7 +24,7 @@ Output     = condor.out
 Error      = condor.error  
 # will contain the standard error
 
-transfer_output_files = read200.sai.gz, read200.sai, md5.txt
+transfer_output_files = read200.sai, md5.txt
 
 ############## condor control variables #############
 

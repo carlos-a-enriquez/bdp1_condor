@@ -32,10 +32,11 @@ print "Creating md5sums"
 os.system("md5sum " + out_name + ".sai " + " > " + md5file)
 #os.system("md5sum " + out_name + ".sam " + " >> " + md5file)  #avoiding the run for .sam files
 
-print "gzipping out text file"
-command = "gzip " + out_name + ".sai" #updated to export .sai instead of .sam
-print "launching command: " , command
-os.system(command)
+#removing gzip part
+#print "gzipping out text file"
+#command = "gzip " + out_name + ".sai" #updated to export .sai instead of .sam
+#print "launching command: " , command
+#os.system(command)
 
 print "exiting"
 

@@ -116,3 +116,267 @@
 	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2457/read200.sam.gz: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:27308>
 	Code 13 Subcode 2
 ...
+000 (007.000.000) 07/04 21:15:02 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_5>
+...
+001 (007.000.000) 07/04 21:15:02 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_4>
+...
+006 (007.000.000) 07/04 21:15:10 Image size of job updated: 614392
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (007.000.000) 07/04 21:15:10 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2614/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:6623>
+	653  -  Run Bytes Sent By Job
+	1163460  -  Run Bytes Received By Job
+...
+012 (007.000.000) 07/04 21:15:10 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2614/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:6623>
+	Code 13 Subcode 2
+...
+000 (008.000.000) 07/04 21:23:32 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_5>
+...
+001 (008.000.000) 07/04 21:23:32 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_4>
+...
+006 (008.000.000) 07/04 21:23:40 Image size of job updated: 616948
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (008.000.000) 07/04 21:23:40 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2757/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:10236>
+	653  -  Run Bytes Sent By Job
+	1163460  -  Run Bytes Received By Job
+...
+012 (008.000.000) 07/04 21:23:40 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2757/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:10236>
+	Code 13 Subcode 2
+...
+000 (009.000.000) 07/04 21:23:49 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_5>
+...
+001 (009.000.000) 07/04 21:23:52 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_4>
+...
+006 (009.000.000) 07/04 21:24:00 Image size of job updated: 616440
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (009.000.000) 07/04 21:24:00 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2776/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:12604>
+	653  -  Run Bytes Sent By Job
+	1163460  -  Run Bytes Received By Job
+...
+012 (009.000.000) 07/04 21:24:00 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2776/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:12604>
+	Code 13 Subcode 2
+...
+000 (010.000.000) 07/04 21:24:19 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_5>
+...
+001 (010.000.000) 07/04 21:24:19 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_4>
+...
+006 (010.000.000) 07/04 21:24:27 Image size of job updated: 372472
+	92  -  MemoryUsage of job (MB)
+	94100  -  ResidentSetSize of job (KB)
+...
+007 (010.000.000) 07/04 21:24:27 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2804/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:15497>
+	653  -  Run Bytes Sent By Job
+	1163460  -  Run Bytes Received By Job
+...
+012 (010.000.000) 07/04 21:24:27 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_2804/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:15497>
+	Code 13 Subcode 2
+...
+000 (011.000.000) 07/04 21:49:09 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_5>
+...
+001 (011.000.000) 07/04 21:49:09 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_4>
+...
+006 (011.000.000) 07/04 21:49:17 Image size of job updated: 612964
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (011.000.000) 07/04 21:49:17 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_3064/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:30675>
+	653  -  Run Bytes Sent By Job
+	1163460  -  Run Bytes Received By Job
+...
+012 (011.000.000) 07/04 21:49:17 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_3064/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:30675>
+	Code 13 Subcode 2
+...
+000 (012.000.000) 07/04 21:53:39 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_5>
+...
+001 (012.000.000) 07/04 21:53:40 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1579_a421_4>
+...
+006 (012.000.000) 07/04 21:53:48 Image size of job updated: 489460
+	262  -  MemoryUsage of job (MB)
+	267404  -  ResidentSetSize of job (KB)
+...
+007 (012.000.000) 07/04 21:53:48 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_3124/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:14818>
+	653  -  Run Bytes Sent By Job
+	1163460  -  Run Bytes Received By Job
+...
+012 (012.000.000) 07/04 21:53:48 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_3124/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:14818>
+	Code 13 Subcode 2
+...
+000 (013.000.000) 07/04 22:02:32 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_5>
+...
+001 (013.000.000) 07/04 22:02:32 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_4>
+...
+006 (013.000.000) 07/04 22:02:41 Image size of job updated: 1101408
+	1076  -  MemoryUsage of job (MB)
+	1101408  -  ResidentSetSize of job (KB)
+...
+006 (013.000.000) 07/04 22:02:57 Image size of job updated: 3115536
+	1076  -  MemoryUsage of job (MB)
+	1101408  -  ResidentSetSize of job (KB)
+...
+007 (013.000.000) 07/04 22:02:57 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1642/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:2294>
+	2826  -  Run Bytes Sent By Job
+	1163460  -  Run Bytes Received By Job
+...
+012 (013.000.000) 07/04 22:02:57 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1642/read200.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:2294>
+	Code 13 Subcode 2
+...
+000 (014.000.000) 07/04 22:12:40 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_5>
+...
+001 (014.000.000) 07/04 22:12:52 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_4>
+...
+006 (014.000.000) 07/04 22:13:01 Image size of job updated: 1119072
+	1093  -  MemoryUsage of job (MB)
+	1119072  -  ResidentSetSize of job (KB)
+...
+006 (014.000.000) 07/04 22:13:17 Image size of job updated: 3115536
+	1093  -  MemoryUsage of job (MB)
+	1119072  -  ResidentSetSize of job (KB)
+...
+005 (014.000.000) 07/04 22:13:17 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7869  -  Run Bytes Sent By Job
+	1163484  -  Run Bytes Received By Job
+	7869  -  Total Bytes Sent By Job
+	1163484  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1250     1250   8846574 
+	   Memory (MB)          :     1093        1      1893 
+...
+000 (015.000.000) 07/04 22:17:37 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_5>
+...
+001 (015.000.000) 07/04 22:17:37 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_4>
+...
+006 (015.000.000) 07/04 22:17:46 Image size of job updated: 1117504
+	1092  -  MemoryUsage of job (MB)
+	1117504  -  ResidentSetSize of job (KB)
+...
+006 (015.000.000) 07/04 22:18:02 Image size of job updated: 3115536
+	1094  -  MemoryUsage of job (MB)
+	1119552  -  ResidentSetSize of job (KB)
+...
+005 (015.000.000) 07/04 22:18:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7869  -  Run Bytes Sent By Job
+	1163484  -  Run Bytes Received By Job
+	7869  -  Total Bytes Sent By Job
+	1163484  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1250     1250   8846574 
+	   Memory (MB)          :     1094        1      1893 
+...
+009 (013.000.000) 07/04 22:18:59 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (012.000.000) 07/04 22:19:11 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (011.000.000) 07/04 22:19:15 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (010.000.000) 07/04 22:19:18 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (003.000.000) 07/04 22:19:50 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (004.000.000) 07/04 22:19:50 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (005.000.000) 07/04 22:19:50 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (006.000.000) 07/04 22:19:50 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (007.000.000) 07/04 22:19:50 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (008.000.000) 07/04 22:19:50 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+009 (009.000.000) 07/04 22:19:50 Job was aborted by the user.
+	via condor_rm (by user arturo.carlosenriquez)
+...
+000 (016.000.000) 07/04 22:21:33 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_5>
+...
+001 (016.000.000) 07/04 22:21:33 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_4>
+...
+006 (016.000.000) 07/04 22:21:41 Image size of job updated: 997856
+	975  -  MemoryUsage of job (MB)
+	997856  -  ResidentSetSize of job (KB)
+...
+006 (016.000.000) 07/04 22:21:58 Image size of job updated: 3115536
+	975  -  MemoryUsage of job (MB)
+	997856  -  ResidentSetSize of job (KB)
+...
+005 (016.000.000) 07/04 22:21:58 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7869  -  Run Bytes Sent By Job
+	1163484  -  Run Bytes Received By Job
+	7869  -  Total Bytes Sent By Job
+	1163484  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1250     1250   8846574 
+	   Memory (MB)          :      975        1      1893 
+...
+000 (017.000.000) 07/04 22:22:18 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_5>
+...
+001 (017.000.000) 07/04 22:22:18 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1541_9388_4>
+...
+006 (017.000.000) 07/04 22:22:27 Image size of job updated: 1111720
+	1086  -  MemoryUsage of job (MB)
+	1111712  -  ResidentSetSize of job (KB)
+...
+006 (017.000.000) 07/04 22:22:43 Image size of job updated: 3115536
+	1086  -  MemoryUsage of job (MB)
+	1111712  -  ResidentSetSize of job (KB)
+...
+005 (017.000.000) 07/04 22:22:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7869  -  Run Bytes Sent By Job
+	1163484  -  Run Bytes Received By Job
+	7869  -  Total Bytes Sent By Job
+	1163484  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     1250     1250   8846574 
+	   Memory (MB)          :     1086        1      1893 
+...
