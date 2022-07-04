@@ -11,7 +11,7 @@ transfer_input_files = bwa, read200.fa
 
 ## Arguments that will be passed to the executable ##
 
-Arguments  = "world.txt 0"
+#Arguments  = "world.txt 0"
 
 ###### Output Sandbox ###############################
 
