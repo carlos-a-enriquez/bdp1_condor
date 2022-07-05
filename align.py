@@ -31,7 +31,7 @@ os.system(command)
 #os.system(command)
 
 print "Creating md5sums"
-os.system("md5sum " + out_name + ".sai " + " > " + "output/" + md5file)
+os.system("md5sum " + "output/" + out_name + ".sai " + " > " + "output/" + md5file)
 #os.system("md5sum " + out_name + ".sam " + " >> " + md5file)  #avoiding the run for .sam files
 
 #removing gzip part
