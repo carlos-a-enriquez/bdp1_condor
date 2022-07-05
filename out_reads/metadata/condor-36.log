@@ -1,0 +1,55 @@
+000 (036.000.000) 07/05 14:50:05 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1551_6f7a_5>
+...
+000 (036.001.000) 07/05 14:50:05 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1551_6f7a_5>
+...
+000 (036.002.000) 07/05 14:50:05 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1551_6f7a_5>
+...
+000 (036.003.000) 07/05 14:50:05 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1551_6f7a_5>
+...
+000 (036.004.000) 07/05 14:50:05 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1551_6f7a_5>
+...
+007 (036.000.000) 07/05 14:50:05 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:6345>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (036.000.000) 07/05 14:50:05 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:6345>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	Code 13 Subcode 2
+...
+007 (036.001.000) 07/05 14:50:05 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:25063>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (036.001.000) 07/05 14:50:05 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:25063>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	Code 13 Subcode 2
+...
+007 (036.002.000) 07/05 14:50:05 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:28282>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	0  -  Run Bytes Sent By Job
+	167121  -  Run Bytes Received By Job
+...
+012 (036.002.000) 07/05 14:50:05 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:28282>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	Code 13 Subcode 2
+...
+007 (036.004.000) 07/05 14:50:05 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:4610>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	0  -  Run Bytes Sent By Job
+	167121  -  Run Bytes Received By Job
+...
+012 (036.004.000) 07/05 14:50:05 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:4610>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	Code 13 Subcode 2
+...
+007 (036.003.000) 07/05 14:50:06 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:23610>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	0  -  Run Bytes Sent By Job
+	167121  -  Run Bytes Received By Job
+...
+012 (036.003.000) 07/05 14:50:06 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: SHADOW at 10.128.0.2 failed to send file(s) to <10.128.0.2:23610>: error reading from /home/arturo.carlosenriquez/condor/hg/out_reads/bwa: (errno 2) No such file or directory; STARTER failed to receive file(s) from <10.128.0.2:9618>
+	Code 13 Subcode 2
+...
