@@ -24,7 +24,7 @@ Output     = metadata/condor-$(Cluster)-$(Process).out
 Error      = metadata/condor-$(Cluster)-$(Process).error  
 # will contain the standard error
 
-transfer_output_files = md5.txt, out_reads/$(myfile).sai
+transfer_output_files = md5.txt, $(myfile).sai
 
 ############## condor control variables #############
 
