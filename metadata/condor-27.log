@@ -1,0 +1,105 @@
+000 (027.000.000) 07/05 13:40:22 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_5>
+...
+000 (027.001.000) 07/05 13:40:22 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_5>
+...
+000 (027.002.000) 07/05 13:40:22 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_5>
+...
+000 (027.003.000) 07/05 13:40:22 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_5>
+...
+000 (027.004.000) 07/05 13:40:22 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_5>
+...
+001 (027.000.000) 07/05 13:40:23 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_4>
+...
+001 (027.001.000) 07/05 13:40:23 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_4>
+...
+006 (027.000.000) 07/05 13:40:32 Image size of job updated: 1096436
+	1071  -  MemoryUsage of job (MB)
+	1096436  -  ResidentSetSize of job (KB)
+...
+006 (027.001.000) 07/05 13:40:32 Image size of job updated: 1099000
+	1074  -  MemoryUsage of job (MB)
+	1099000  -  ResidentSetSize of job (KB)
+...
+006 (027.000.000) 07/05 13:40:40 Image size of job updated: 1096952
+	1072  -  MemoryUsage of job (MB)
+	1096952  -  ResidentSetSize of job (KB)
+...
+007 (027.000.000) 07/05 13:40:40 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read200.sai=out_reads/0-: (errno 2) No such file or directory
+	561  -  Run Bytes Sent By Job
+	1163492  -  Run Bytes Received By Job
+...
+012 (027.000.000) 07/05 13:40:40 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read200.sai=out_reads/0-: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
+001 (027.002.000) 07/05 13:40:42 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_4>
+...
+006 (027.002.000) 07/05 13:40:50 Image size of job updated: 443640
+	434  -  MemoryUsage of job (MB)
+	443640  -  ResidentSetSize of job (KB)
+...
+006 (027.001.000) 07/05 13:40:59 Image size of job updated: 3115536
+	1074  -  MemoryUsage of job (MB)
+	1099000  -  ResidentSetSize of job (KB)
+...
+007 (027.001.000) 07/05 13:40:59 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_201.sai=out_reads/1-: (errno 2) No such file or directory
+	566  -  Run Bytes Sent By Job
+	1296293  -  Run Bytes Received By Job
+...
+012 (027.001.000) 07/05 13:40:59 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_201.sai=out_reads/1-: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
+001 (027.003.000) 07/05 13:41:00 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_4>
+...
+006 (027.003.000) 07/05 13:41:09 Image size of job updated: 483964
+	473  -  MemoryUsage of job (MB)
+	483964  -  ResidentSetSize of job (KB)
+...
+006 (027.002.000) 07/05 13:41:27 Image size of job updated: 3115536
+	434  -  MemoryUsage of job (MB)
+	444152  -  ResidentSetSize of job (KB)
+...
+007 (027.002.000) 07/05 13:41:27 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_202.sai=out_reads/2-: (errno 2) No such file or directory
+	566  -  Run Bytes Sent By Job
+	1296293  -  Run Bytes Received By Job
+...
+012 (027.002.000) 07/05 13:41:27 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_202.sai=out_reads/2-: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
+001 (027.004.000) 07/05 13:41:28 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1652_b68b_4>
+...
+006 (027.004.000) 07/05 13:41:37 Image size of job updated: 480444
+	470  -  MemoryUsage of job (MB)
+	480444  -  ResidentSetSize of job (KB)
+...
+006 (027.003.000) 07/05 13:41:49 Image size of job updated: 3115536
+	475  -  MemoryUsage of job (MB)
+	486012  -  ResidentSetSize of job (KB)
+...
+007 (027.003.000) 07/05 13:41:49 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_203.sai=out_reads/3-: (errno 2) No such file or directory
+	566  -  Run Bytes Sent By Job
+	1296293  -  Run Bytes Received By Job
+...
+012 (027.003.000) 07/05 13:41:49 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_203.sai=out_reads/3-: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
+006 (027.004.000) 07/05 13:42:06 Image size of job updated: 3115536
+	470  -  MemoryUsage of job (MB)
+	480500  -  ResidentSetSize of job (KB)
+...
+007 (027.004.000) 07/05 13:42:06 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_204.sai=out_reads/4-: (errno 2) No such file or directory
+	30250  -  Run Bytes Sent By Job
+	1296293  -  Run Bytes Received By Job
+...
+012 (027.004.000) 07/05 13:42:06 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>; SHADOW at 10.128.0.2 failed to write to file /home/arturo.carlosenriquez/condor/hg/md5.txt", "read_204.sai=out_reads/4-: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...

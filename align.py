@@ -18,8 +18,10 @@ out_name = sys.argv[1]
 
 md5file = "md5.txt"
 
+command="mkdir output"
+os.system(command)
 
-command = "./bwa aln -t 1 " + dbpath + dbname + " " + queryname + " > " + out_name + ".sai"
+command = "./bwa aln -t 1 " + dbpath + dbname + " " + queryname + " > " + "output/"+ out_name + ".sai"
 print "launching command: " , command
 os.system(command)
 
@@ -29,7 +31,7 @@ os.system(command)
 #os.system(command)
 
 print "Creating md5sums"
-os.system("md5sum " + out_name + ".sai " + " > " + md5file)
+os.system("md5sum " + out_name + ".sai " + " > " + "output/" + md5file)
 #os.system("md5sum " + out_name + ".sam " + " >> " + md5file)  #avoiding the run for .sam files
 
 #removing gzip part
