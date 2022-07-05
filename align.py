@@ -12,9 +12,9 @@ from timeit import default_timer as timer
 dbpath = "/data/BDP1_2022/hg19/"
 dbname = "hg19bwaidx"
 
-queryname = "read200.fa"
+queryname = sys.argv[1]+".fa" 
 
-out_name = "read200"
+out_name = sys.argv[1]
 
 md5file = "md5.txt"
 

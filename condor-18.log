@@ -1,0 +1,85 @@
+000 (018.000.000) 07/05 10:34:57 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_5>
+...
+000 (018.001.000) 07/05 10:34:57 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_5>
+...
+000 (018.002.000) 07/05 10:34:57 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_5>
+...
+000 (018.003.000) 07/05 10:34:57 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_5>
+...
+000 (018.004.000) 07/05 10:34:57 Job submitted from host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_5>
+...
+001 (018.000.000) 07/05 10:34:57 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_4>
+...
+001 (018.001.000) 07/05 10:34:57 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_4>
+...
+006 (018.001.000) 07/05 10:34:58 Image size of job updated: 2
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (018.001.000) 07/05 10:34:58 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1818/read_201.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:9781>
+	521  -  Run Bytes Sent By Job
+	1296285  -  Run Bytes Received By Job
+...
+012 (018.001.000) 07/05 10:34:58 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1818/read_201.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:9781>
+	Code 13 Subcode 2
+...
+001 (018.002.000) 07/05 10:34:58 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_4>
+...
+006 (018.002.000) 07/05 10:34:58 Image size of job updated: 2
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (018.002.000) 07/05 10:34:58 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1842/read_202.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:7927>
+	521  -  Run Bytes Sent By Job
+	1296285  -  Run Bytes Received By Job
+...
+012 (018.002.000) 07/05 10:34:58 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1842/read_202.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:7927>
+	Code 13 Subcode 2
+...
+001 (018.003.000) 07/05 10:34:58 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_4>
+...
+006 (018.003.000) 07/05 10:34:58 Image size of job updated: 2
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (018.003.000) 07/05 10:34:58 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1858/read_203.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:24649>
+	521  -  Run Bytes Sent By Job
+	1296285  -  Run Bytes Received By Job
+...
+012 (018.003.000) 07/05 10:34:58 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1858/read_203.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:24649>
+	Code 13 Subcode 2
+...
+001 (018.004.000) 07/05 10:34:58 Job executing on host: <10.128.0.2:9618?addrs=10.128.0.2-9618&noUDP&sock=1552_1f13_4>
+...
+006 (018.004.000) 07/05 10:34:58 Image size of job updated: 2
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+007 (018.004.000) 07/05 10:34:58 Shadow exception!
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1873/read_204.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:25719>
+	521  -  Run Bytes Sent By Job
+	1296285  -  Run Bytes Received By Job
+...
+012 (018.004.000) 07/05 10:34:58 Job was held.
+	Error from slot2@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1873/read_204.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:25719>
+	Code 13 Subcode 2
+...
+006 (018.000.000) 07/05 10:35:06 Image size of job updated: 3115536
+	959  -  MemoryUsage of job (MB)
+	981272  -  ResidentSetSize of job (KB)
+...
+007 (018.000.000) 07/05 10:35:23 Shadow exception!
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1817/read200.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:25706>
+	737  -  Run Bytes Sent By Job
+	1163484  -  Run Bytes Received By Job
+...
+012 (018.000.000) 07/05 10:35:23 Job was held.
+	Error from slot1@master-node.us-central1-a.c.final-site-1.internal: STARTER at 10.128.0.2 failed to send file(s) to <10.128.0.2:9618>: error reading from /var/lib/condor/execute/dir_1817/read200.fa.sai: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.128.0.2:25706>
+	Code 13 Subcode 2
+...
