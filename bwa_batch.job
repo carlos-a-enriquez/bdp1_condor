@@ -37,4 +37,4 @@ Universe   = vanilla
 
 #####################################################
 
-Queue myfile from [0:2] file_list.txt
+Queue myfile from [0:5] file_list.txt
