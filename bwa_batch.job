@@ -7,7 +7,7 @@ Executable = align.py
 #Input      = world.txt  
 #Can contain standard input
 
-transfer_input_files = bwa, $(myfile).fa
+transfer_input_files = bwa, in_reads/$(myfile).fa
 
 ## Arguments that will be passed to the executable ##
 
@@ -15,16 +15,16 @@ Arguments  = $(myfile)
 
 ###### Output Sandbox ###############################
 
-Log        = condor-$(Cluster).log    
+Log        = metadata/condor-$(Cluster).log    
 # will contain condor log
 
-Output     = condor-$(Cluster)-$(Process).out    
+Output     = metadata/condor-$(Cluster)-$(Process).out    
 # will contain the standard output
 
-Error      = condor-$(Cluster)-$(Process).error  
+Error      = metadata/condor-$(Cluster)-$(Process).error  
 # will contain the standard error
 
-transfer_output_files = md5.txt, $(myfile).sai
+transfer_output_files = md5.txt, out_reads/$(myfile).sai
 
 ############## condor control variables #############
 
